@@ -1,4 +1,4 @@
-# Coin Detection and Value Calculation
+# Coin VISION
 
 This Python project uses OpenCV and CVZone libraries to detect coins from a live video feed, calculate their total value in rupees, and display the result on-screen.
 
