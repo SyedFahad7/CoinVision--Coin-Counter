@@ -36,7 +36,7 @@ python coin_detection.py
 Adjust the trackbars in the settings window to optimize coin detection based on lighting conditions.
 
 ## PDF presentation
-![presentation](./presentation.pdf)
+![presentation](./CoinVision.pdf)
 
 ## 🚀 About Me
 I'm a full stack Web & App Developer and an undergrad Data Science Student 👨‍💻🙌
